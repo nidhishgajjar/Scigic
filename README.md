@@ -14,17 +14,9 @@ Currently, building AI projects
 
 ### Languages & Tools
 
-- Python 
-- JavaScript 
-- Dart 
-- Flutter 
-- Django 
-- Firebase
-- PostgreSQL
-- HTML/CSS
-- Figma
-- AutoCAD
-- Civil 3D
+- Programming languages: Python, JavaScript, Dart
+- Frameworks: Django, Flutter
+- Tools & Other: Firebase, PostgreSQL, HTML/CSS, Git, Github, Visual Studio, Figma, AutoCAD, Civil 3D
 
 ### Core
 
