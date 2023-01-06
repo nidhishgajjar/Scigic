@@ -7,12 +7,27 @@ I am a software engineer with a passion for building scalable, high-quality syst
 
 ### Languages
 
->> Python
->> JavaScript
-Dart
+- Python 
+- JavaScript 
+- Dart 
 
 ### Frameworks
 
-Flutter
-Django
+- Flutter 
+- Django 
+
+### Tools
+
+- Firebase
+- PostgreSQL
+- HTML/CSS
+- Figma
+- AutoCAD
+- Civil 3D
+
+### Core
+
+- Chemistry
+- Physics
+- Math
 
