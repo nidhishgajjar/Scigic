@@ -5,7 +5,7 @@ I am a software engineer with a passion for building scalable, high-quality syst
 
 ## Skills
 
-# Programming Languages
+### Programming Languages
 
 Python
 JavaScript
