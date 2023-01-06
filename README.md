@@ -5,19 +5,13 @@ I am a software engineer with a passion for building scalable, high-quality syst
 
 ## Skills
 
-### Languages
+### Languages & Tools
 
 - Python 
 - JavaScript 
 - Dart 
-
-### Frameworks
-
 - Flutter 
 - Django 
-
-### Tools
-
 - Firebase
 - PostgreSQL
 - HTML/CSS
