@@ -7,8 +7,8 @@ I am a software engineer with a passion for building scalable, high-quality syst
 
 ### Languages
 
-Python
-JavaScript
+>> Python
+>> JavaScript
 Dart
 
 ### Frameworks
