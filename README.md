@@ -12,13 +12,13 @@ Currently, building AI projects
 
 ## Skills
 
-### Languages & Tools
+#### Languages & Tools
 
 - Programming languages: Python, JavaScript, Dart
 - Frameworks: Django, Flutter
 - Tools & Other: Firebase, PostgreSQL, HTML/CSS, Git, Github, Visual Studio, Figma, AutoCAD, Civil 3D
 
-### Core
+#### Core
 
 - Chemistry
 - Physics
