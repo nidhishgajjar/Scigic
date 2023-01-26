@@ -20,9 +20,9 @@ Currently, building AI projects
 
 #### Core
 
-- Chemistry
-- Physics
 - Math
+- Physics
+- Chemistry
 
 ## Education
 
