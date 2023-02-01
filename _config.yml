@@ -1,4 +1,4 @@
 include:
    - .well-known
    
-theme: pages-themes/hacker
+theme: minimal
