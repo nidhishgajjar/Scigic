@@ -1,4 +1,3 @@
 include:
    - .well-known
    
-theme: minimal
