@@ -1,5 +1,5 @@
 ![1657669223769](https://user-images.githubusercontent.com/72427739/210922811-3fecc62d-7cd2-427c-859a-6596d66a96e8.jpeg)
-# About me
+# About
 
 ### Interested in solving complex problems.
 
