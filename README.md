@@ -1,5 +1,5 @@
 ![1657669223769](https://user-images.githubusercontent.com/72427739/210922811-3fecc62d-7cd2-427c-859a-6596d66a96e8.jpeg)
-# about
+# About
 
 ### Interested in solving complex problems.
 
@@ -10,7 +10,7 @@ Checkout my latest project - [UNIQART](https://linktr.ee/uniqart/)
 Currently, building AI projects
 
 
-## skills
+## Skills
 
 #### Languages & Tools
 
@@ -24,7 +24,7 @@ Currently, building AI projects
 - Physics
 - Chemistry
 
-## education
+## Education
 
 - Computer Science from [Codecademy](https://codecademy.com/)
 - Civil Engineering from [Mohawk College](https://mohawkcollege.ca/)
