@@ -1,3 +1,2 @@
-include:
-   -.well-known
+include: .well-known
    
