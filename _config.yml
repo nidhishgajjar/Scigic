@@ -1,4 +1,4 @@
 include:
    - .well-known
    
-theme: hacker
+remote_theme: hacker
