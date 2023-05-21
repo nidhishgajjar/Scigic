@@ -45,11 +45,8 @@ I am a hacker with a passion for building products that help people. Seeking a c
 ## Contact Me
 Looking to solve complex problems, or just want to chat about tech? Let's connect!
 
-[Twitter](https://twitter.com/nidhishgajjar)
-
-[Email](nidhish@scigic.com)
-
-[GitHub](https://github.com/nidhishgajjar)
-
-[LinkedIn](https://www.linkedin.com/in/nidhish-gajjar-665896167)
+- [Twitter](https://twitter.com/nidhishgajjar)
+- [Email](nidhish@scigic.com)
+- [GitHub](https://github.com/nidhishgajjar)
+- [LinkedIn](https://www.linkedin.com/in/nidhish-gajjar-665896167)
 
