@@ -29,7 +29,7 @@ I am a hacker with a passion for building products that help people. Seeking a c
 
 - Programming Languages: Python, JavaScript, Go, Dart
 - Frameworks: React, Electron, Fiber, FastAPI, Flask, Flutter
-- Tools & Additional Skills: AWS services (Cloudfront, S3, Route53, ElasticBeanstalk), Redis, Firebase, PostgreSQL, HTML/CSS, Git, Github, Visual Studio, Figma, AutoCAD, Civil 3D
+- Tools & Additional Skills: Foundational Models (LLMs), VectorDB, Pineconde, AWS services (Cloudfront, S3, Route53, ElasticBeanstalk), Redis, Firebase, PostgreSQL, HTML/CSS, Git, Github, Visual Studio, Figma, AutoCAD, Civil 3D
 
 #### Core
 
