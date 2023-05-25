@@ -8,7 +8,7 @@ I am a hacker with a passion for building products that help people. Seeking a c
 ## Founder of [Constitute](https://constitute.ai)
 
 - Chad makes ChatGPT accessible from anywhere on your computer.
-- Currently, have more than 110+ users gloabally with High user retention indicating effective functionality and user engagement..
+- Currently, have more than 150+ users gloabally with High user retention indicating effective functionality and user engagement..
 - It comes with a built-in AI Search Enigne that can find information for you on the web.
 - Exceptionally quick response times (<1s) achieved through concurrency in GoLang.
 
