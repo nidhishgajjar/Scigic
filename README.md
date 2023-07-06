@@ -8,12 +8,12 @@ I am a hacker with a passion for building products that help people. Seeking a c
 ## Founder of [Constitute](https://constitute.ai)
 
 - Chad makes ChatGPT accessible from anywhere on your computer.
-- Currently, have more than 150+ users gloabally with High user retention indicating effective functionality and user engagement..
+- Currently, have more than 200+ users gloabally with High user retention indicating effective functionality and user engagement..
 - It comes with a built-in AI Search Enigne that can find information for you on the web.
 - Exceptionally quick response times (<1s) achieved through concurrency in GoLang.
 
 ##### On the Horizon:
-- Chad, your AI extension. Taking tasks off your plate or partnering with you, simplifying your digital life and unlocking endless possibilities.
+- Scigic, your AI extension. Taking tasks off your plate or partnering with you, simplifying your digital life and unlocking endless possibilities.
 
 
 ## Previous Projects
@@ -27,8 +27,8 @@ I am a hacker with a passion for building products that help people. Seeking a c
 
 #### Languages & Tools
 
-- Programming Languages: Python, JavaScript, Go, Dart
-- Frameworks: React, Electron, Fiber, FastAPI, Flask, Flutter
+- Programming Languages: Python, JavaScript, Go, Dart, swift
+- Frameworks: React, Electron, Fiber, FastAPI, Flask, Flutter, SwiftUI, AppKit
 - Tools & Additional Skills: Foundational Models (LLMs), VectorDB, Pineconde, AWS services (Cloudfront, S3, Route53, ElasticBeanstalk), Redis, Firebase, PostgreSQL, HTML/CSS, Git, Github, Visual Studio, Figma, AutoCAD, Civil 3D
 
 #### Core
