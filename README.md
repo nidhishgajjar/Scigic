@@ -1,37 +1,48 @@
 ![1657669223769](https://user-images.githubusercontent.com/72427739/210922811-3fecc62d-7cd2-427c-859a-6596d66a96e8.jpeg)
-# About
 
-#### Interested in solving complex problems.
+# [Constitute](https://constitute.ai) ~ adding time to people's lives
 
-I am a hacker with a passion for building products that help people. Seeking a challenging and innovative opportunity to use my skills and creativity to solve complex problems and make a positive impact. Confident in my ability to think outside the box and find imaginative solutions.
+Hi, my name is Nidhish founder of Constitute. I am an artist with a passion for building products that help people. Imagination and Simplicity are essence of every product or solution I devise.
 
-## Founder of [Constitute](https://constitute.ai)
 
-- Chad makes ChatGPT accessible from anywhere on your computer.
-- Currently, have more than 200+ users gloabally with High user retention indicating effective functionality and user engagement..
-- It comes with a built-in AI Search Enigne that can find information for you on the web.
-- Exceptionally quick response times (<1s) achieved through concurrency in GoLang.
+## Launching ~ Scigic
+#### A Browser + Assistant: Revolutionizing your digital interactions
+- Aimed at being a single point of contact for all your digital interactions
+- Enables you to interact digitally in three modes
+  
+  1. Manual
+  2. Assisted
+  3. Autonomous
+ 
+- A Desktop App for Mac users
 
-##### On the Horizon:
-- Scigic, your AI extension. Taking tasks off your plate or partnering with you, simplifying your digital life and unlocking endless possibilities.
+## Existing Products
+
+#### [Chad](https://getchad.co) (cross-platform desktop app)
+- Making your favourite web apps easily accessible on your computer 
+- More than 210+ users globally with High user retention great reviews and an average session time of over 10 minutes
+
+#### [QuickSearch](https://constitute.ai/quicksearch/) (web app)
+- An AI-powered search enigne is the easiest way to find accurate information quickly 
+- Over 5000+ quick searches since it's launch
+- Exceptionally quick response times (<1s).
 
 
 ## Previous Projects
 
-- [AI Search Engine](https://constitute.ai/quicksearch/)
-- [uniQart](https://linktr.ee/uniqart/)
-- [Skyroute](https://github.com/nidhishgajjar/skyroute)
-
+- [uniQart](https://linktr.ee/uniqart/) - Transporation for Students
+- [Bats Delivers](https://www.zomato.com/ahmedabad/bats-delivers-paldi) - Late night food delivery
+  
 
 ## Skills
 
 #### Languages & Tools
 
-- Programming Languages: Python, JavaScript, Go, Dart, swift
-- Frameworks: React, Electron, Fiber, FastAPI, Flask, Flutter, SwiftUI, AppKit
-- Tools & Additional Skills: Foundational Models (LLMs), VectorDB, Pineconde, AWS services (Cloudfront, S3, Route53, ElasticBeanstalk), Redis, Firebase, PostgreSQL, HTML/CSS, Git, Github, Visual Studio, Figma, AutoCAD, Civil 3D
+- Programming Languages: Python, JavaScript, Go, Dart, Swift
+- Frameworks: React, Electron, Fiber, FastAPI, Flutter, SwiftUI, AppKit, UIKit
+- Tools & Additional Skills: Foundational Models (LLMs), AWS services (Cloudfront, S3, Route53, ElasticBeanstalk), Redis, Firebase, Github, Figma, AutoCAD, Civil 3D
 
-#### Core
+#### First Principles Thinking
 
 - Math
 - Physics
@@ -43,10 +54,10 @@ I am a hacker with a passion for building products that help people. Seeking a c
 - Civil Engineering from [Mohawk College](https://mohawkcollege.ca/)
 
 ## Contact Me
-Looking to solve complex problems, or just want to chat about tech? Let's connect!
+Looking to solve complex problems, or just want to chat about art, tech, etc? Let's connect!
 
 - [Twitter](https://twitter.com/nidhishgajjar)
-- [Email](nidhish@scigic.com)
+- [Email](mailto:artist@scigic.com)  
 - [GitHub](https://github.com/nidhishgajjar)
 - [LinkedIn](https://www.linkedin.com/in/nidhish-gajjar-665896167)
 
