@@ -6,7 +6,7 @@ Hi, my name is Nidhish founder of Constitute. I am an artist with a passion for 
 
 
 ## Launching ~ Scigic
-#### A Browser + Assistant: Revolutionizing your digital interactions
+### A Browser + Assistant: Revolutionizing your digital interactions
 - Aimed at being a single point of contact for all your digital interactions
 - Enables you to interact digitally in three modes
   
@@ -34,7 +34,7 @@ Hi, my name is Nidhish founder of Constitute. I am an artist with a passion for 
 - [Bats Delivers](https://www.zomato.com/ahmedabad/bats-delivers-paldi) - Late night food delivery
   
 
-## Skills
+## My Skills
 
 #### Languages & Tools
 
@@ -56,8 +56,9 @@ Hi, my name is Nidhish founder of Constitute. I am an artist with a passion for 
 ## Contact Me
 Looking to solve complex problems, or just want to chat about art, tech, etc? Let's connect!
 
-- [Twitter](https://twitter.com/nidhishgajjar)
-- [Email](mailto:artist@scigic.com)  
+- [X](https://twitter.com/nidhishgajjar)
 - [GitHub](https://github.com/nidhishgajjar)
 - [LinkedIn](https://www.linkedin.com/in/nidhish-gajjar-665896167)
 
+Twitter (X) is the best way to reach out to me
+Cheers 🥂
