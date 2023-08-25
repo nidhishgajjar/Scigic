@@ -60,5 +60,4 @@ Looking to solve complex problems, or just want to chat about art, tech, etc? Le
 - [GitHub](https://github.com/nidhishgajjar)
 - [LinkedIn](https://www.linkedin.com/in/nidhish-gajjar-665896167)
 
-Twitter (X) is the best way to reach out to me
-Cheers 🥂
+Twitter (X) is the best way to reach out to me 🥂
