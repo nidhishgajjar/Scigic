@@ -1,6 +1,7 @@
 # Join exclusive private beta
 
-#### [Request Access](https://tally.so/r/mJpeQY) 
+#### [Request Access](https://tally.so/r/mJpeQY)
+###### (If you already signed up for Chad, you can download Scigic and log in using your existing credentials. You don't need to request access)
 
 
 # If you've received an email granting beta access, start the download below:
