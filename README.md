@@ -10,7 +10,7 @@ A Browser + Assistant - Revolutionizing your digital interactions
 
 #### Universal Mac App. Compatible with macOS 13.0 and above 🔭
 
-#### [Start Download](https://scigic.s3.amazonaws.com/scigic-1.0.0.dmg) 🥂
+#### [Start Download](https://scigic.s3.amazonaws.com/Scigic.dmg) 🥂
 
 ## Shortcuts:
 
