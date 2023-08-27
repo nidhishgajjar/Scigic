@@ -1,10 +1,12 @@
 # Join exclusive private beta
 
+A Browser + Assistant - Revolutionizing your digital interactions
+
 #### [Request Access](https://tally.so/r/mJpeQY)
 ###### (If you already signed up for Chad, you can download Scigic and log in using your existing credentials. You don't need to request access)
 
 
-# If you've received an email granting beta access, start the download below:
+# If you've received an email granting you beta access, start the download below:
 
 #### Universal Mac App. Compatible with macOS 13.0 and above 🔭
 
