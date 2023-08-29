@@ -18,5 +18,7 @@ A Browser + Assistant - Revolutionizing your digital interactions
 - ` (Backtick) to bring up the Home view
 - Command + J to navigate one slate above
 - Command + K to navigate one slate below
+- Command + \ to close current slate
+- Command + P to open iCloud Keychain (saved password)
 - Shift + enter to add a new line in the Ask Bar
 - Command + enter to search Google manually
