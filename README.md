@@ -49,7 +49,7 @@ Scigic is a Browser + Assistant aimed at being a single point of contact for all
 <br>
 
 ### Contact Us
-- [X](https://twitter.com/constituteai)
+- [X (Twitter)](https://twitter.com/constituteai)
 - hello@scigic.com
 
 
