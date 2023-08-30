@@ -51,7 +51,7 @@ Scigic is a Browser + Assistant aimed at being a single point of contact for all
 
 Contact Us
 - [X](https://twitter.com/constituteai)
-- hello@scigic.com
+- mailto:hello@scigic.com
 
 
 
