@@ -50,7 +50,7 @@ Scigic is a Browser + Assistant aimed at being a single point of contact for all
 - If any of you think otherwise please reach us to our twitter (X) handle and maybe we'll add you to waitlist for alpha testing. Look at the attached video to see it sending and summarizing email.
 
 Contact Us
-- [X](https://twitter.com/constitute)
+- [X](https://twitter.com/constituteai)
 - hello@scigic.com
 
 
