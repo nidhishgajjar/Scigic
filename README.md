@@ -7,68 +7,39 @@
 
 Scigic is a Browser + Assistant aimed at being a single point of contact for all your digital interactions
 
-
-###### Features
-
-#### 1. Modes of interaction
-- Manual
-- Assisted
-  
-
-#### 2. Unified Search and Command Interface
-- There's a single ask bar where users input queries or commands. Depending on the context, Scigic decides the best action - conducting a web search (manual) or gives a direct response or assistance (assisted)
-
-  
-#### 3. Scigic at Your Fingertips:
-- Scigic can be opened from anywhere on the computer like 'spotlight search'
-- Load any web app in scigic and make it accessible to streamline your workflow and boost productivity. No need to move back and forth between multiple windows
-- You can clip multiple web apps to home screen for more quicker and easy access
-
-  
-#### 4. Tabs Revolutionized to Slates
-- Slates are auto-managed by Scigic
-- Slates incorporates a dynamic interface providing scigic to express itself and load third party web apps and interfaces
-- A more intuitive way to navigate between slates "Vertical Slate Switcher"
-
-<br>
-
-# Shortcuts
-
-- Option + Space to call Scigic (you can customize this from settings)
-- ` (Backtick) to bring up the Home view
-- Command + J to navigate one slate above
-- Command + K to navigate one slate below
-- Command + \ (backslash) to close current slate
-- Command + P to open iCloud Keychain (saved passwords)
-- Shift + enter to add a new line in the Ask Bar
-- Command + enter to search Google manually
-
-
-
-<br>
 <br>
 🫀🧠
 <br>
+
+# Shortcuts and how to use
+
+### Access Scigic from anywhere on the computer (you can customize this from settings)
+- Option + Space
+
+### To bring up Home view with clipped web apps
+- ` (Backtick) to bring up the Home view
+
+### Scigic will automatically procees your request 
+- It will decide best way to assist your and will either respond itself or bring up google slate
+- You will see two buttons Ask Scigic button (in the Palette next to AskBar) or Google it button (next the your query) when Scigic processes the request automatically
+
+### For each new request a new slate is opened (use up and down arrow to move/navigate between slates)
+- Command + J to navigate one slate above
+- Command + K to navigate one slate below
+
+### To close slate (hover red circle on top right corner to hit 'x')
+- Command + \ (backslash) to close current slate
+
+### Below each slate there will be a Palette
+- Palette can be used to open home view, passwords, copy url, back/forward (web navigation buttons) or reload web apps
+- Command + P to open iCloud Keychain (saved passwords)
+
+### Use AskBar
+- In the Palette use the AskBar that says Tell me to ask or request anything
+- Shift + enter to add a new line in the Ask Bar
+- Command + enter to search Google manually
+
 <br>
-
-
-
-## Things on hold that were tested in private alpha
-
-### Third Mode is Autonomous
-
-#### Seamless Task Execution
-
-- Beyond mere suggestions, the assistant can take direct actions for users, such as sending or summarizing emails, slack messages, scheduling reminders.
-- Basically assigning tasks to Scigic. Becoming autonomous...
-
-<br>
-
-#### Problem with this mode
-
-- It looks cool and is fun to watch or play with it occasionally but we didn't feel anyone would want to integrate this into their workflow or has an immediate need for it. 
-- If any of you think otherwise please reach us to our twitter (X) handle and maybe we'll add you to waitlist for alpha testing. Look at the attached video to see it sending and summarizing email.
-
 <br>
 
 ### Contact Us
