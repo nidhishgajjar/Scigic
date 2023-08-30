@@ -12,7 +12,7 @@ Scigic is a Browser + Assistant aimed at being a single point of contact for all
 - Assisted
 
 #### Unified Search and Command Interface
-- Just like the 'spotlight search', there's a single ask bar where users input queries or commands. Depending on the context, Scigic decides the best action - conducting a web search (manual) or getting assistance (assisted).
+- Just like the 'spotlight search', there's a single ask bar where users input queries or commands. Depending on the context, Scigic decides the best action - conducting a web search (manual) or gives a direct response or assistance (assisted).
   
 #### Web Apps at Your Fingertips:
 - Open any web app in scigic and access it like 'spotlight search', streamlining your workflow and boosting productivity. You can clip multiple web apps to home screen for more quicker and easy access.
