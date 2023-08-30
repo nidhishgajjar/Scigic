@@ -1,4 +1,4 @@
-Scigic is a Browser + Assistant aimed at being a single point of contact for all your digital interactions. It'll streamline your workflow and boost productivity. Most importantly it'll save you bunch of time and keep you sane.
+***Scigic*** is a Browser + Assistant aimed at being a single point of contact for all your digital interactions. It’ll streamline your workflow and boost productivity. Most importantly, it’ll save you a bunch of time and keep you sane
 
 <br>
 🫀🧠
@@ -15,16 +15,16 @@ Scigic is a Browser + Assistant aimed at being a single point of contact for all
 ### AskBar
 - Use the AskBar that says 'Tell me' to ask or request anything
 - Scigic will decide best way to assist you and will either respond itself or bring up a google slate for you to browse further
-- You will see two buttons Ask Scigic button (in the Palette next to AskBar) or Google it button (next the your query) when Scigic processes the request automatically
+- You will see two buttons: 'Ask Scigic' button (in the Palette next to the AskBar) and 'Google it' button (next to your query) when Scigic processes the request automatically
 
 ### Slates
-- Scigic open a new slate to assist you with each request
-- To close a slate (hover red circle on top right corner to hit 'x')
+- Scigic opens a new slate to assist you with each request
+- To close a slate, hover over the red circle on the top right corner and click ‘x’
 - Use the up/down arrow key to navigate slates
 
 ### Palette
 - Below each slate there will be a Palette
-- Palette can be used to access home, icloud passwords, copy url, back/forward (web navigation buttons) or reload web apps
+- Palette can be used to access home, iCloud passwords, copy URL, use back/forward (web navigation buttons), or reload web apps
 
 
 <br>
@@ -53,5 +53,4 @@ Scigic is a Browser + Assistant aimed at being a single point of contact for all
 
 <br>
 
-**Designed by Constitute**
-~ Adding time to poeple's lives 🥂
+***Designed by Constitute*** ~ Adding time to people’s lives 🥂
