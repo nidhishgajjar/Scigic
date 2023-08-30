@@ -1,19 +1,6 @@
 # Join exclusive beta [click here to request access](https://tally.so/r/mJpeQY)
 ###### (If you already signed up for Chad, check your registered email to download Scigic and log in using your existing credentials. You don't need to request access)
 
-# Shortcuts
-
-- Option + Space to call Scigic (you can customize this from settings)
-- ` (Backtick) to bring up the Home view
-- Command + J to navigate one slate above
-- Command + K to navigate one slate below
-- Command + \ (backslash) to close current slate
-- Command + P to open iCloud Keychain (saved passwords)
-- Shift + enter to add a new line in the Ask Bar
-- Command + enter to search Google manually
-
-<br>
-
 # What is Scigic
 
 Scigic is a Browser + Assistant aimed at being a single point of contact for all your digital interactions
@@ -44,6 +31,19 @@ Scigic is a Browser + Assistant aimed at being a single point of contact for all
 - Slates are auto-managed by Scigic
 - Slates incorporates a dynamic interface providing scigic to express itself and load third party web apps and interfaces
 - A more intuitive way to navigate between slates "Vertical Slate Switcher"
+
+<br>
+
+# Shortcuts
+
+- Option + Space to call Scigic (you can customize this from settings)
+- ` (Backtick) to bring up the Home view
+- Command + J to navigate one slate above
+- Command + K to navigate one slate below
+- Command + \ (backslash) to close current slate
+- Command + P to open iCloud Keychain (saved passwords)
+- Shift + enter to add a new line in the Ask Bar
+- Command + enter to search Google manually
 
 
 
