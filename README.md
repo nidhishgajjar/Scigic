@@ -1,5 +1,3 @@
-# What is Scigic
-
 Scigic is a Browser + Assistant aimed at being a single point of contact for all your digital interactions. It'll streamline your workflow and boost productivity. Most importantly it'll save you bunch of time and keep you sane.
 
 <br>
