@@ -5,7 +5,7 @@
 
 # What is Scigic
 
-Scigic is a Browser + Assistant aimed at being a single point of contact for all your digital interactions
+Scigic is a Browser + Assistant aimed at being a single point of contact for all your digital interactions. It'll streamline your workflow and boost productivity. Most importantly it'll save you bunch of time and keep you sane.
 
 <br>
 🫀🧠
@@ -17,7 +17,7 @@ Scigic is a Browser + Assistant aimed at being a single point of contact for all
 - You can access Scigic from anywhere on the computer using Option + Space
 
 ### Home
-- Home will have an AskBar to request anything, Quick Actions to make quick requests and Clip that'll have web apps to easily access
+- Home will have an AskBar to request anything, Quick Actions to make quick requests and Clips of web apps to easily access
 
 ### AskBar
 - Use the AskBar that says Tell me to ask or request anything
@@ -58,5 +58,7 @@ Scigic is a Browser + Assistant aimed at being a single point of contact for all
 - hello@scigic.com
 
 
+<br>
 
-
+Designed by Constitute
+~ Adding time to poeple's lives 🥂
