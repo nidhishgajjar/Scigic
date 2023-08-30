@@ -8,6 +8,8 @@
 Scigic is a Browser + Assistant aimed at being a single point of contact for all your digital interactions
 
 <br>
+🥂
+<br>
 
 # Features
 
@@ -32,7 +34,7 @@ Scigic is a Browser + Assistant aimed at being a single point of contact for all
 - A more intuitive way to navigate between slates "Vertical Slate Switcher"
 
 <br>
-🔭
+🧠
 <br>
 
 # Shortcuts
@@ -49,10 +51,9 @@ Scigic is a Browser + Assistant aimed at being a single point of contact for all
 
 
 <br>
-<br>
 🔭
 <br>
-<br>
+
 
 
 ## Things on hold that were tested in private alpha
