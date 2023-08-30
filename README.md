@@ -11,35 +11,46 @@ Scigic is a Browser + Assistant aimed at being a single point of contact for all
 🫀🧠
 <br>
 
-# Shortcuts and how to use
+# How to use Scigic
 
-### Access Scigic from anywhere on the computer (you can customize this from settings)
-- Option + Space
+### Access Scigic
+- You can access Scigic from anywhere on the computer using Option + Space
 
-### To bring up Home view with clipped web apps
-- ` (Backtick) to bring up the Home view
+### Home
+- Home will have an AskBar to request anything, Quick Actions to make quick requests and Clip that'll have web apps to easily access
 
-### Scigic will automatically procees your request 
-- It will decide best way to assist your and will either respond itself or bring up google slate
+### AskBar
+- Use the AskBar that says Tell me to ask or request anything
+- Scigic will decide best way to assist your and will either respond itself or bring up a google slate for you to browse further
 - You will see two buttons Ask Scigic button (in the Palette next to AskBar) or Google it button (next the your query) when Scigic processes the request automatically
 
-### For each new request a new slate is opened (use up and down arrow to move/navigate between slates)
+### Slates
+- Scigic open a new slate to assist you with each request
+- To close a slate (hover red circle on top right corner to hit 'x')
+- Use the up/down arrow key to navigate slates
+
+### Palette
+- Below each slate there will be a Palette
+- Palette can be used to access home, icloud passwords, copy url, back/forward (web navigation buttons) or reload web apps
+
+
+<br>
+🫀🧠
+<br>
+
+# Shortcuts
+
+- Option + Space to call Scigic (you can customize this from settings)
+- ` (Backtick) to bring up the Home view
 - Command + J to navigate one slate above
 - Command + K to navigate one slate below
-
-### To close slate (hover red circle on top right corner to hit 'x')
 - Command + \ (backslash) to close current slate
-
-### Below each slate there will be a Palette
-- Palette can be used to open home view, passwords, copy url, back/forward (web navigation buttons) or reload web apps
 - Command + P to open iCloud Keychain (saved passwords)
-
-### Use AskBar
-- In the Palette use the AskBar that says Tell me to ask or request anything
 - Shift + enter to add a new line in the Ask Bar
 - Command + enter to search Google manually
 
 <br>
+🫀🧠
 <br>
 
 ### Contact Us
