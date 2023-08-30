@@ -41,7 +41,7 @@ Scigic is a Browser + Assistant aimed at being a single point of contact for all
 # Shortcuts
 
 - Option + Space to call Scigic (you can customize this from settings)
-- ` (Backtick) to bring up the Home view
+- ` (Backtick) to bring up the Home
 - Command + J to navigate one slate above
 - Command + K to navigate one slate below
 - Command + \ (backslash) to close current slate
