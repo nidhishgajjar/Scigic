@@ -15,25 +15,24 @@ Scigic is a Browser + Assistant aimed at being a single point of contact for all
 - Manual
 - Assisted
   
-<br>
 
 #### Unified Search and Command Interface
 - There's a single ask bar where users input queries or commands. Depending on the context, Scigic decides the best action - conducting a web search (manual) or gives a direct response or assistance (assisted)
 
-<br>
   
 #### Scigic at Your Fingertips:
 - Scigic can be opened from anywhere on the computer like 'spotlight search'
 - Load any web app in scigic and make it accessible to streamline your workflow and boost productivity. No need to move back and forth between multiple windows
 - You can clip multiple web apps to home screen for more quicker and easy access
 
-<br>
   
 #### Tabs Revolutionized to Slates
 - Slates are auto-managed by Scigic
 - Slates incorporates a dynamic interface providing scigic to express itself and load third party web apps and interfaces
 - A more intuitive way to navigate between slates "Vertical Slate Switcher"
 
+<br>
+🔭
 <br>
 
 # Shortcuts
