@@ -55,5 +55,5 @@ Scigic is a Browser + Assistant aimed at being a single point of contact for all
 
 <br>
 
-Designed by Constitute
+**Designed by Constitute**
 ~ Adding time to poeple's lives 🥂
