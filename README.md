@@ -1,8 +1,3 @@
-# Join exclusive beta [click here to request access](https://tally.so/r/mJpeQY)
-###### (If you already signed up for Chad, check your registered email to download Scigic and log in using your existing credentials. You don't need to request access)
-
-<br>
-
 # What is Scigic
 
 Scigic is a Browser + Assistant aimed at being a single point of contact for all your digital interactions. It'll streamline your workflow and boost productivity. Most importantly it'll save you bunch of time and keep you sane.
